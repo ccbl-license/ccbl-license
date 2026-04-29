@@ -43,7 +43,7 @@ Means any individual or legal entity that has submitted **at least one (1) Valid
 Maintainers have the right to mark trivial submissions (e.g., simple typo fixes, formatting changes, auto-generated code) as “invalid” at the time of submission.
 
 **Qualification Process**:
-- A submission not marked as “invalid”, “spam”, or “malicious” within thirty (60) days shall be deemed a Valid Contribution.
+- A submission not marked as “invalid”, “spam”, or “malicious” within sixty (60) days shall be deemed a Valid Contribution.
 - The submitter automatically qualifies as a Qualified Contributor upon such determination.
 
 **0.5 “Derivative Work”**  
