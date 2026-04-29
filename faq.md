@@ -47,7 +47,7 @@ It depends:
 
 ### Q8: How do I become a Qualified Contributor?
 
-Submit a Pull Request or Issue that gets accepted. If it's not marked as "invalid", "spam", or "malicious" within 30 days, you automatically become a Qualified Contributor. This status is **perpetual** and applies to you (and your company, if you contributed as an employee).
+Submit a Pull Request or Issue that gets accepted. If it's not marked as "invalid", "spam", or "malicious" within 60 days, you automatically become a Qualified Contributor. This status is **perpetual** and applies to you (and your company, if you contributed as an employee).
 
 ### Q9: What counts as a "Valid Contribution"?
 
