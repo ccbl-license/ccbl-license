@@ -43,7 +43,7 @@ This project is licensed under [CCBL 1.6](./LICENSE) (Contribution-Commercial-Be
 | Integrating into commercial product | ❌ Need commercial license OR become a contributor |
 | Submitted a PR/Issue that was accepted | ✅ Free commercial use (permanent) |
 
-**To get free commercial use**: Submit a Pull Request or valid Issue. If accepted (and not marked invalid within 30 days), you become a Qualified Contributor with perpetual free commercial use.
+**To get free commercial use**: Submit a Pull Request or valid Issue. If accepted (and not marked invalid within 60 days), you become a Qualified Contributor with perpetual free commercial use.
 
 📄 [Full License Text](./LICENSE) | 🤖 [AI Policy](./AI_POLICY.md)
 
@@ -70,7 +70,7 @@ Submitting any contribution means you have read and agree to the CCBL Contributi
 2. Create a feature branch
 3. Make your changes
 4. Open a Pull Request
-5. Wait for review (if not marked invalid within 30 days, it's automatically accepted)
+5. Wait for review (if not marked invalid within 60 days, it's automatically accepted)
 
 ## Questions?
 
