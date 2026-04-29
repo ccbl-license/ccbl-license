@@ -143,7 +143,7 @@ your-project/
 |Remove the copyright notice	| Keep all notices intact |
 |Forget to add AI_POLICY.md	| Include it if you want AI protection |
 |Assume all users read the full license	| Add a summary table to README |
-|Ignore the 30-day rule for contributions	| Respond to submissions within 30 days to dispute validity |
+|Ignore the 60-day rule for contributions	| Respond to submissions within 60 days to dispute validity |
 
 ## Getting Help
 
