@@ -171,7 +171,7 @@ This License is **CCBL 1.6**. The copyright holder may publish new versions and 
 
 *The content of this appendix is incorporated into the License by reference. It should be placed in the project root directory as `AI_POLICY.md`.*
 
-```markdown
+
 # AI Policy for CCBL-Licensed Projects
 
 ## 1. Purpose
