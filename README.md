@@ -32,7 +32,7 @@ For a human-friendly explanation, interactive comparisons, and the **Chinese ver
 
 ### For Contributors (Getting Free Commercial Use)
 
-Submit a Pull Request or valid Issue to a CCBL-licensed project. If your submission is not marked as "invalid", "spam", or "malicious" within 30 days, you automatically become a **Qualified Contributor** with **perpetual free commercial use** of that software.
+Submit a Pull Request or valid Issue to a CCBL-licensed project. If your submission is not marked as "invalid", "spam", or "malicious" within 60 days, you automatically become a **Qualified Contributor** with **perpetual free commercial use** of that software.
 
 ### For Commercial Users (Without Contribution)
 
