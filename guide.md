@@ -51,7 +51,7 @@ This project is licensed under [CCBL 1.6](./LICENSE) (Contribution-Commercial-Be
 
 Create a CONTRIBUTING.md file in your project root to explain how contributions work under CCBL.
 
-** Recommended template: **
+**Recommended template**:
 
 ```markdown
 # Contributing to [Your Project Name]
@@ -111,7 +111,7 @@ If you need to use this software commercially but have not made a contribution, 
 
 If you sell commercial licenses, you must publish an annual donation report by March 31 each year.
 
-** Recommended approach: ** Add a section to your README or website:
+**Recommended approach**: Add a section to your README or website:
 
 ```markdown
 ## Donation Report (CCBL Section 6)
