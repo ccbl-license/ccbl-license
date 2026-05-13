@@ -128,27 +128,22 @@ Non-commercial uses (e.g., personal study, research, renaming a fork without com
 Factual Statement Exception: You may use the Project Marks for factual descriptions (e.g., “This software is compatible with [Project Name]”), provided this does not cause confusion or imply an endorsement relationship.
 
 6. Good-Faith Donation Pledge
-The copyright holder pledges to donate at least 1% of the Software’s annual Net Commercial License Revenue to a designated open source foundation.
 
-“Annual Net Commercial License Revenue” means the amount actually received by the copyright holder from commercial licenses as described in Section 3.2, after deducting refunds, taxes, and payment processing fees.
+The copyright holder pledges to donate at least 1% of the Software's annual Net Commercial License Revenue to a designated open source foundation.
+
+"Annual Net Commercial License Revenue" means the amount actually received by the copyright holder from commercial licenses as described in Section 3.2, after deducting refunds, taxes, and payment processing fees.
 
 For the avoidance of doubt, the following are excluded:
+- Donations or sponsorships received by the project;
+- Paid technical support or consulting revenue;
+- Revenue from any other products of the copyright holder.
 
-Donations or sponsorships received by the project;
+An annual donation report will be made public on the project's official website or code repository by March 31 of the following year, including:
+- The previous year's Net Commercial License Revenue;
+- The actual donation amount;
+- The name of the recipient foundation and transaction proof.
 
-Paid technical support or consulting revenue;
-
-Revenue from any other products of the copyright holder.
-
-An annual donation report will be made public on the project’s official website or code repository by March 31 of the following year, including:
-
-The previous year’s Net Commercial License Revenue (rounded to the nearest thousand);
-
-The actual donation amount;
-
-The name of the recipient foundation and transaction proof.
-
-Note: This pledge is a unilateral good-faith statement by the copyright holder and is not an enforceable contract obligation against any third party. It is a core feature of the CCBL, intended to create a virtuous cycle where commercial success supports open source.
+Note: This pledge is a unilateral good-faith statement by the copyright holder. It does not create any third-party beneficiary rights or an enforceable contract obligation for any party other than the copyright holder itself.
 
 7. Disclaimer of Warranty
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM THE SOFTWARE.
