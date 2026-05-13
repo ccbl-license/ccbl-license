@@ -123,21 +123,21 @@ You may not:
 
 ## 6. Good-Faith Donation Pledge
 
-The copyright holder pledges to donate at least **1% of the Software’s annual Net Commercial License Revenue** to a designated open source foundation.
+The copyright holder pledges to donate at least **1% of the Software's annual Net Commercial License Revenue** to a designated open source foundation.
 
-**“Annual Net Commercial License Revenue”** means the amount actually received by the copyright holder from commercial licenses as described in Section 3.2, after deducting refunds, taxes, and payment processing fees.
+**"Annual Net Commercial License Revenue"** means the amount actually received by the copyright holder from commercial licenses as described in Section 3.2, after deducting refunds, taxes, and payment processing fees.
 
 For the avoidance of doubt, the following are **excluded**:
 - Donations or sponsorships received by the project;
 - Paid technical support or consulting revenue;
 - Revenue from any other products of the copyright holder.
 
-An annual donation report will be made public on the project’s official website or code repository by March 31 of the following year, including:
-- The previous year’s Net Commercial License Revenue (rounded to the nearest thousand);
+An annual donation report will be made public on the project's official website or code repository by March 31 of the following year, including:
+- The previous year's Net Commercial License Revenue;
 - The actual donation amount;
 - The name of the recipient foundation and transaction proof.
 
-> **Note**: This pledge is a unilateral good-faith statement by the copyright holder and is **not** an enforceable contract obligation against any third party.
+> **Note**: This pledge is a unilateral good-faith statement by the copyright holder. It does not create any third-party beneficiary rights or an enforceable contract obligation for any party other than the copyright holder itself.
 
 ---
 
