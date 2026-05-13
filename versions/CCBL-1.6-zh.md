@@ -1,6 +1,6 @@
 # CCBL 1.6 — Contribution-Commercial-Benevolent License
 
-## 贡献·商业·善意许可证 1.6 版
+## 贡献·商业·善意捐赠许可证 1.6 版
 
 **版权所有 © [年份] [版权持有人名称]**  
 **保留所有权利**
