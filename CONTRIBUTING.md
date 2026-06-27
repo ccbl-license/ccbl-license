@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to the Contribution-Commercial-Benevolent License (CCBL). This document provides guidelines for contributing to this repository, which contains the license text, policies, and official documentation.
 
+**Affiliation**: CCBL is an official license developed & maintained by [Ignotus Labs](https://github.com/ignotuslabs). This repository (`ccbl-license/ccbl-license`) is hosted under the independent `ccbl-license` GitHub organization for neutrality and focus of concerns, but contributions are governed by Ignotus Labs.
+
 ## Scope of This Repository
 
 This repository hosts:
@@ -86,9 +88,9 @@ CCBL is available in English (authoritative) and Chinese. To contribute translat
 
 ### Version Archive (`/versions/`)
 
-- When releasing a new version (e.g., 1.7):
-  - Move current `LICENSE` to `/versions/CCBL-1.6.txt` (if not already)
-  - Create `CCBL-1.6.md` (Markdown version) in `/versions/`
+- When releasing a new version (e.g., 1.8):
+  - Move current `LICENSE` to `/versions/CCBL-1.7.txt` (if not already)
+  - Create `CCBL-1.7.md` (Markdown version) in `/versions/`
   - Update `/versions/README.md` with the new version
   - Update root `LICENSE` with new version text
 

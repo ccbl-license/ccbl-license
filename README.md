@@ -1,17 +1,20 @@
 # CCBL — Contribution-Commercial-Benevolent License
 
-[![License Version](https://img.shields.io/badge/version-1.6-blue.svg)](./LICENSE)
+[![License Version](https://img.shields.io/badge/version-1.7-blue.svg)](./LICENSE)
 [![Official Website](https://img.shields.io/badge/website-ccbl.cc-brightgreen.svg)](https://ccbl.cc)
 
 This repository is the **authoritative source** for the CCBL (Contribution-Commercial-Benevolent License) text and its supplementary policies.
 
+> **CCBL is an official license developed & maintained by [Ignotus Labs](https://github.com/ignotuslabs).** The license specification text in this repository is dedicated to the public.
+
 ## Repository Purpose
 
-- **`/LICENSE`** : The canonical English text of the CCBL 1.6 (pure text format).
+- **`/LICENSE`** : The canonical English text of the CCBL 1.7 (pure text format).
 - **`/AI_POLICY.md`** : The official AI Supplementary Policy, incorporated by reference into the license.
 - **`/versions/`** : Historical versions of the license (starting from 1.6). Each version includes both `.txt` (authoritative) and `.md` (readable) formats.
 - **`/adopters.md`** : List of projects and organizations using CCBL.
-- **`/FAQ.md`** : Frequently asked questions about CCBL.
+- **`/FAQ.md`** : Frequently asked questions about CCBL (English).
+- **`/faq-zh.md`** : Chinese translation of the FAQ.
 - **`/guide.md`** : Step-by-step guide on how to use CCBL in your project.
 - **`/CONTRIBUTING.md`** : Guidelines for contributing to this repository (the CCBL license itself).
 - **`/README.md`** : This file.
@@ -32,7 +35,7 @@ For a human-friendly explanation, interactive comparisons, and the **Chinese ver
 
 ### For Contributors (Getting Free Commercial Use)
 
-Submit a Pull Request or valid Issue to a CCBL-licensed project. If your submission is not marked as "invalid", "spam", or "malicious" within 60 days, you automatically become a **Qualified Contributor** with **perpetual free commercial use** of that software.
+Submit a Pull Request or valid Issue to a CCBL-licensed project. Once a maintainer **explicitly accepts or merges** your submission, you become a **Qualified Contributor** with **perpetual free commercial use** of that software. This right is **personal** and does not extend to your employer or organization.
 
 ### For Commercial Users (Without Contribution)
 
@@ -43,17 +46,20 @@ You must purchase a commercial license from the project's copyright holder. Cont
 ```markdown
 ccbl-license/ccbl-license/
 ├── README.md # This file
-├── LICENSE # CCBL 1.6 (pure text, authoritative)
+├── LICENSE # CCBL 1.7 (pure text, authoritative)
 ├── AI_POLICY.md # AI policy (incorporated by reference)
 ├── adopters.md # Projects using CCBL
 ├── CONTRIBUTING.md # Guidelines for this repo
-├── FAQ.md # Frequently asked questions
+├── FAQ.md # Frequently asked questions (English)
+├── faq-zh.md # FAQ 中文版
 ├── guide.md # Step-by-step usage guide
 ├── CNAME # Custom domain: ccbl.cc
 └── versions/ # Historical versions archive
-├── README.md # Version index
-├── CCBL-1.6.txt # Version 1.6 (pure text)
-└── CCBL-1.6.md # Version 1.6 (Markdown)
+    ├── README.md # Version index
+    ├── CCBL-1.7.txt # Version 1.7 (pure text, current)
+    ├── CCBL-1.7.md # Version 1.7 (Markdown, current)
+    ├── CCBL-1.6.txt # Version 1.6 (pure text)
+    └── CCBL-1.6.md # Version 1.6 (Markdown)
 ```
 
 ## License of This Repository
@@ -70,6 +76,7 @@ The text of the CCBL license and its policies in this repository are dedicated t
 
 - [Official Website](https://ccbl.cc) — Human-friendly explanation, Chinese version, comparisons
 - [GitHub Organization](https://github.com/ccbl-license) — All CCBL-related repositories
+- [Ignotus Labs](https://github.com/ignotuslabs) — The organization that develops & maintains CCBL
 
 ---
 

@@ -42,49 +42,49 @@ Yes. Non-commercial use (personal study, research, hobby projects) is always fre
 
 It depends:
 
-- If you or your company has submitted a Valid Contribution (PR/Issue that was accepted), you get **free commercial use**.
-- Otherwise, you need to **purchase a commercial license** from the copyright holder.
+- If **you personally** have submitted a Valid Contribution (a PR/Issue that a maintainer explicitly accepted or merged), you qualify for **free commercial use** — but this right is **personal** and does **not** extend to your company or employer. Your organization must obtain its own commercial license.
+- Otherwise, you or your company needs to **purchase a commercial license** from the copyright holder.
 
 ### Q8: How do I become a Qualified Contributor?
 
-Submit a Pull Request or Issue that gets accepted. If it's not marked as "invalid", "spam", or "malicious" within 60 days, you automatically become a Qualified Contributor. This status is **perpetual** and applies to you (and your company, if you contributed as an employee).
+Submit a Pull Request or Issue that a maintainer **explicitly accepts or merges**. Qualified Contributor status is **perpetual** and **personal** — it applies to you as an individual and does **not** extend to your employer or organization.
 
 ### Q9: What counts as a "Valid Contribution"?
 
 - A merged Pull Request (any code size)
-- An Issue labeled as "accepted", "confirmed", "bug", or "enhancement"
-- An adopted suggestion or documentation improvement
+- An Issue explicitly labeled as "accepted", "confirmed", "bug", or "enhancement" by a maintainer
+- An optimization suggestion or documentation improvement that a maintainer explicitly confirms as adopted in writing
 
-Trivial fixes (typos, formatting, auto-generated code) may be marked as "invalid" at the maintainer's discretion.
+Trivial fixes (typos, formatting, auto-generated code) may be marked as "invalid" at the maintainer's discretion. Note: silence or inaction by maintainers does **not** automatically count as acceptance — submissions must be explicitly accepted or merged.
 
 ### Q10: Once I'm a Qualified Contributor, do I need to keep contributing?
 
-No. The status is **perpetual**. One accepted contribution gives you lifetime free commercial use.
+No. The status is **perpetual**. One accepted contribution gives you lifetime free commercial use (for your own use).
 
 ## Commercial Use
 
 ### Q11: How much does a commercial license cost?
 
-Pricing is determined by each project's copyright holder. Check the project's website or contact them directly.
+Pricing is determined by each project's copyright holder. The scope, term, and pricing are set forth in a separate agreement between the copyright holder and the licensee, and are not governed by the CCBL License itself. Check the project's website or contact them directly.
 
 ### Q12: Can I modify and distribute CCBL software?
 
 Yes, but with restrictions:
 
-- Modifications must be distributed in **source code form**
+- Modifications may be distributed in **source code and/or binary form** (binary-only distributions must make the corresponding source available to recipients)
 - You must retain all license and copyright notices
 - You cannot use the original project's name/trademark in commercial activities without permission
-- You cannot provide it as a public SaaS without a commercial license
+- You cannot provide it as a hosted SaaS service to any third party without a commercial license
 
 ### Q13: Can I use CCBL software as a SaaS?
 
-Not without a commercial license. Public SaaS distribution is prohibited unless you have purchased a commercial license.
+Not without a commercial license. Providing the Software as a hosted service to **any third party** — whether publicly over the internet or internally to specific customers — is prohibited unless you have purchased a commercial license.
 
 ## AI Policy
 
 ### Q14: Can AI companies train models on CCBL code?
 
-Not for commercial purposes without permission. CCBL explicitly prohibits commercial AI training and scraping. Personal research and academic use are allowed.
+Not for commercial purposes without permission. CCBL explicitly prohibits commercial AI training and scraping. Personal research and academic use are allowed. However, if a model produced through non-commercial AI training is later used commercially, that commercial use still requires satisfying Section 3.
 
 ### Q15: How can you prove my AI was trained on CCBL code?
 
@@ -94,25 +94,50 @@ The copyright holder may embed unique, non-functional watermarks in the source c
 
 ### Q16: What is the 1% donation pledge?
 
-The copyright holder of CCBL-licensed software pledges to donate at least 1% of their annual net commercial license revenue to a designated open source foundation. This is a good-faith commitment, not a legally enforceable obligation.
+The copyright holder of CCBL-licensed software pledges to donate at least 1% of their annual net revenue from commercial licenses to a designated open source foundation. This is a good-faith commitment and is **not** a legally enforceable obligation — no party may bring a claim for non-performance.
 
-### Q17: Where can I see donation reports?
+### Q17: Which open source foundations are eligible?
+
+The copyright holder designates the recipient foundation. Eligible foundations should be legally registered non-profit organizations whose mission includes supporting open source software development, and that are not controlled by or affiliated with the copyright holder. Examples of qualifying foundations include (non-exhaustive):
+
+- Apache Software Foundation
+- Cloud Native Computing Foundation (CNCF)
+- Eclipse Foundation
+- Free Software Foundation (FSF)
+- OpenAtom Foundation (开放原子开源基金会)
+- Kaiyuanshe (开源社)
+
+The copyright holder may update the designated list periodically. The current list is published in the project's official repository or website.
+
+### Q18: Where can I see donation reports?
 
 Donation reports are published annually by March 31 on the project's official website or repository.
 
 ## Legal
 
-### Q18: What law governs CCBL?
+### Q19: What law governs CCBL?
 
-The laws of the jurisdiction where the copyright holder primarily resides or has their principal place of business.
+The laws of the jurisdiction where the copyright holder primarily resides or has their principal place of business. Disputes are first resolved via written notice and good-faith negotiation; if unresolved after 60 days, they go to the courts of that jurisdiction.
 
-### Q19: Can I use a past version of CCBL?
+### Q20: What happens if I violate the license?
 
-Yes. Projects may continue to use any past version. There is no requirement to upgrade.
+Your rights terminate automatically upon violation. However, if the violation is curable, you have **60 days** after receiving written notice to cure it, after which your rights are reinstated.
 
-### Q20: Who maintains CCBL?
+### Q21: Does CCBL include a patent grant?
 
-CCBL is maintained by the CCBL community. The authoritative source is [github.com/ccbl-license/ccbl-license](https://github.com/ccbl-license/ccbl-license). For specific projects using CCBL, contact that project's copyright holder.
+Yes. Section 11 grants users a patent license for the unmodified Software. Section 0.6(b) also requires contributors to grant a patent license for their contributions. Initiating patent litigation against the copyright holder or a contributor terminates your patent license.
+
+### Q22: Can I use a past version of CCBL?
+
+Yes. Projects may continue to use any past version. There is no requirement to upgrade. Later versions of CCBL may not diminish the substantive rights already granted under the version you received.
+
+### Q23: What happens if a license provision is invalid?
+
+Section 12 (Severability) provides that if any provision is held invalid or unenforceable, it will be modified to the minimum extent necessary to make it valid, and the remaining provisions stay in full effect. The License also constitutes the entire agreement regarding use of the Software.
+
+### Q24: Who maintains CCBL?
+
+CCBL is developed & maintained by [Ignotus Labs](https://github.com/ignotuslabs). The authoritative source is [github.com/ccbl-license/ccbl-license](https://github.com/ccbl-license/ccbl-license). For specific projects using CCBL, contact that project's copyright holder.
 
 ---
 

@@ -13,7 +13,7 @@ This page lists projects and organizations that have adopted the Contribution-Co
 
 ### Production Use / Commercial Projects
 
-- **[Project A](https://project-a.com)** - A brief description of what the project does. (Licensed under CCBL 1.6)
+- **[Project A](https://project-a.com)** - A brief description of what the project does. (Licensed under CCBL 1.7)
 
 ### Non-Commercial / Open Source Projects
 
@@ -23,4 +23,4 @@ This page lists projects and organizations that have adopted the Contribution-Co
 ## Notes for Adopters
 
 - **Displaying CCBL on your site**: It's recommended to link back to the official CCBL website (`https://ccbl.cc`) or this GitHub repository for reference.
-- **Version clarity**: When listed, please state which CCBL version you are using (e.g., CCBL 1.6).
+- **Version clarity**: When listed, please state which CCBL version you are using (e.g., CCBL 1.7).

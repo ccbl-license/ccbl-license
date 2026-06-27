@@ -19,7 +19,7 @@ This determination applies regardless of syntactic differences, renaming, or obf
 
 Without express prior written permission from the copyright holder, you are prohibited from using any method (including but not limited to direct input, web crawling, data scraping, API calls, or automated reading) to access the Software’s source code for the purpose of training any **commercial AI model**.
 
-Personal research, academic study, or non-commercial AI training is not subject to this restriction.
+Personal research, academic study, or non-commercial AI training is not subject to this restriction. However, if a model produced through non-commercial AI training is subsequently used for commercial purposes, such commercial use remains subject to the conditions of Section 3 of the License.
 
 ## 4. Watermarking and Detection Rights
 
@@ -27,12 +27,10 @@ The copyright holder has the right to embed unique, non-functional feature marke
 
 ## 5. Effect and Interpretation
 
-This document is incorporated by reference into the CCBL License and has the same legal effect as the main body. In the event of any conflict, the supplementary definitions in this document shall prevail.
+This document is incorporated by reference into the CCBL License and has the same legal effect as the main body. In the event of any conflict concerning AI-related matters, the supplementary definitions in this document shall prevail.
 
-## 6. Legal Effect Statement
+## 6. General Provisions
 
 This policy is effective to the fullest extent permitted by applicable law. If the law of a jurisdiction regarding copyright of AI-generated material differs from this policy, this policy shall remain as the clear expression of the copyright holder’s intent and shall be interpreted in its favor wherever possible.
 
-## 7. Forward-Looking Statement
-
-This policy represents the copyright holder’s proactive effort to protect software rights in the age of AI. As AI-related laws and policies develop, this policy will be updated accordingly. The copyright holder commits that no update will diminish the rights already granted to existing users under this policy.
+As AI-related laws and policies develop, this policy will be updated accordingly. The copyright holder commits that no update will diminish the rights already granted to existing users under this policy.
